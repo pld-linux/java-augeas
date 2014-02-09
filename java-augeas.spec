@@ -11,7 +11,7 @@ Version:	0.0.2
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries/Java
-Source0:	http://augeas.net/download/java/%{name}-%{version}.tar.gz
+Source0:	http://download.augeas.net/java/%{name}-%{version}.tar.gz
 # Source0-md5:	9d5cbad6a5b2fb82b8cdaa43e9791db3
 URL:		http://augeas.net/
 BuildRequires:	augeas-libs
