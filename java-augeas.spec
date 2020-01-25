@@ -3,7 +3,6 @@
 %bcond_without	javadoc		# don't build javadoc
 %bcond_without	tests		# don't build and run tests
 #
-%include	/usr/lib/rpm/macros.java
 Summary:	Java binding to the Augeas library
 Summary(pl.UTF-8):	Wiązanie Javy do biblioteki Augeas
 Name:		java-augeas
